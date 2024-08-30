@@ -38,3 +38,5 @@ Feel free to contribute by opening issues or submitting pull requests. Please en
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
+### Thank you for your support.
+
